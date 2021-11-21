@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DbAppVer="17.3.0.0014" DbPrjVer="10"-->
+<Gallery::GyView DbId="a0248fcb-c9cd-45d0-8383-6f83e208ce14">
+ <FieldsBlob/>
+ <Stills/>
+ <OneStillPerScene>false</OneStillPerScene>
+ <TraceTimeline>false</TraceTimeline>
+ <SortType>0</SortType>
+ <ViewName/>
+ <LockSysId/>
+ <DbSavedTime>3116783</DbSavedTime>
+</Gallery::GyView>

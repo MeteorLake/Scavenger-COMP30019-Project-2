@@ -1,0 +1,3 @@
+Database Name: projectvideodb
+User Name: guest
+Project Name: Project 2 Video
