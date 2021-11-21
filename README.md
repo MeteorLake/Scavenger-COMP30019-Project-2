@@ -4,7 +4,7 @@
 **The University of Melbourne**
 # Scavenger | COMP30019 – Graphics and Interaction Project 2
 
-This is a Unity game created for Project 2 in the COMP30019 Graphics and Interactions Subject
+This is a Unity game created for Project 2 in the COMP30019 - Graphics and Interaction Subject
 
 Members: 4
 
